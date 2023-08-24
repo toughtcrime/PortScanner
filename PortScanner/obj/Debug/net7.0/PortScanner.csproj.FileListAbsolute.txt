@@ -1,0 +1,15 @@
+/home/whatislove/RiderProjects/PortScanner/PortScanner/bin/Debug/net7.0/PortScanner
+/home/whatislove/RiderProjects/PortScanner/PortScanner/bin/Debug/net7.0/PortScanner.deps.json
+/home/whatislove/RiderProjects/PortScanner/PortScanner/bin/Debug/net7.0/PortScanner.runtimeconfig.json
+/home/whatislove/RiderProjects/PortScanner/PortScanner/bin/Debug/net7.0/PortScanner.dll
+/home/whatislove/RiderProjects/PortScanner/PortScanner/bin/Debug/net7.0/PortScanner.pdb
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/PortScanner.csproj.AssemblyReference.cache
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/PortScanner.GeneratedMSBuildEditorConfig.editorconfig
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/PortScanner.AssemblyInfoInputs.cache
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/PortScanner.AssemblyInfo.cs
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/PortScanner.csproj.CoreCompileInputs.cache
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/PortScanner.dll
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/refint/PortScanner.dll
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/PortScanner.pdb
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/PortScanner.genruntimeconfig.cache
+/home/whatislove/RiderProjects/PortScanner/PortScanner/obj/Debug/net7.0/ref/PortScanner.dll
